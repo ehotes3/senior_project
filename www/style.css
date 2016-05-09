@@ -1,0 +1,56 @@
+body {
+	padding-top:100px;
+}
+nav {
+	height: 70px;
+}
+.navbar {
+	background-color: #7467c1;
+}
+.navbar-brand {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size:18pt;
+}
+.panel-heading {
+	font-family: 'Amaranth', sans-serif;
+	font-weight: 700;
+	font-size: 12pt;
+}
+.table {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10pt;
+}
+tr:hover {
+	background-color: #7467c1;
+	color: white;
+}
+h1 {
+	font-family: 'Amaranth', sans-serif;
+	font-weight: 700;
+	padding-left: 100px;
+}
+.input-group{
+	padding: 25px;
+}
+.stats-container{
+	width: 1000px;
+}
+.tables-body{
+	width: 1000px;
+}
+.progress{
+	height: 35px;
+}
+.progress-text{
+	padding-top: 8px;
+	font-family: 'Montserrat', sans-serif;
+	font-size:14pt;
+}
+.personnel-table{
+	width:900px;
+}
+.key{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14pt;
+}
